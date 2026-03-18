@@ -8,7 +8,7 @@ A multi-address payment tracker dApp built on **Stellar** with **Soroban smart c
 
 ## 🌐 Live Demo
 
-> 🔗 **[your-app.vercel.app](https://your-app.vercel.app)**
+> 🔗 **[vercel.app](https://steller-yellow-belt-egll.vercel.app/)**
 >
 > *(Deploy to Vercel by connecting this repo at [vercel.com/new](https://vercel.com/new) — it works out of the box)*
 
