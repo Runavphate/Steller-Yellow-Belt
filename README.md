@@ -8,21 +8,13 @@ A multi-address payment tracker dApp built on **Stellar** with **Soroban smart c
 
 ## 🌐 Live Demo
 
-> 🔗 **[vercel.app](https://steller-yellow-belt-egll.vercel.app/)**
->
-> *(Deploy to Vercel by connecting this repo at [vercel.com/new](https://vercel.com/new) — it works out of the box)*
+> 🔗 **[vercel.link](https://steller-yellow-belt-egll.vercel.app/)**
 
 ---
 
 ## 🖼️ Screenshot — Wallet Options
 
 > Add a screenshot of your wallet connection screen here.
->
-> **How to add:**
-> 1. Open the app and click **Connect Wallet**
-> 2. Take a screenshot showing the Freighter popup / wallet options
-> 3. Save it as `screenshot-wallet.png` in this repo
-> 4. Replace the line below with: `![Wallet Options](screenshot-wallet.png)`
 
 ![Wallet Options](screenshot-wallet.png)
 
