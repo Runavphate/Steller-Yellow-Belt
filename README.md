@@ -25,8 +25,8 @@ A multi-address payment tracker dApp built on **Stellar** with **Soroban smart c
 | Field | Value |
 |-------|-------|
 | **Network** | Stellar Testnet |
-| **Contract Address** | `REPLACE_WITH_YOUR_CONTRACT_ID` |
-| **View on Explorer** | [stellar.expert/explorer/testnet/contract/REPLACE_WITH_YOUR_CONTRACT_ID](https://stellar.expert/explorer/testnet/contract/REPLACE_WITH_YOUR_CONTRACT_ID) |
+| **Contract Address** | `CDFAH2DSKYZUD2ZTL7Z3SQEXMV3FAPYV47JUPX67X7YO7CZDO6J3GXV3` |
+| **View on Explorer** | [stellar.expert/explorer/testnet/contract/CDFAH2DSKYZUD2ZTL7Z3SQEXMV3FAPYV47JUPX67X7YO7CZDO6J3GXV3](https://stellar.expert/explorer/testnet/contract/CDFAH2DSKYZUD2ZTL7Z3SQEXMV3FAPYV47JUPX67X7YO7CZDO6J3GXV3) |
 
 > **How to deploy the contract** — run inside [GitHub Codespaces](https://github.com/features/codespaces) or [Gitpod](https://gitpod.io) (stellar-cli works on Linux):
 > ```bash
@@ -44,8 +44,8 @@ A multi-address payment tracker dApp built on **Stellar** with **Soroban smart c
 
 | Field | Value |
 |-------|-------|
-| **Transaction Hash** | `REPLACE_WITH_YOUR_TX_HASH` |
-| **View on Explorer** | [stellar.expert/explorer/testnet/tx/REPLACE_WITH_YOUR_TX_HASH](https://stellar.expert/explorer/testnet/tx/REPLACE_WITH_YOUR_TX_HASH) |
+| **Transaction Hash** | `c2ab9ee5762d045f5bb049dfb703407656b9d6061c7f6485bd96a1c922e96fdd` |
+| **View on Explorer** | [stellar.expert/explorer/testnet/tx/c2ab9ee5762d045f5bb049dfb703407656b9d6061c7f6485bd96a1c922e96fdd](https://stellar.expert/explorer/testnet/tx/c2ab9ee5762d045f5bb049dfb703407656b9d6061c7f6485bd96a1c922e96fdd) |
 
 > This is the hash of a `register_payment` or `update_status` call made to the deployed contract. After deploying the contract, make a test call from the app and paste the resulting transaction hash here.
 
