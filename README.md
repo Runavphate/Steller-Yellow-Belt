@@ -28,16 +28,6 @@ A multi-address payment tracker dApp built on **Stellar** with **Soroban smart c
 | **Contract Address** | `CDFAH2DSKYZUD2ZTL7Z3SQEXMV3FAPYV47JUPX67X7YO7CZDO6J3GXV3` |
 | **View on Explorer** | [stellar.expert/explorer/testnet/contract/CDFAH2DSKYZUD2ZTL7Z3SQEXMV3FAPYV47JUPX67X7YO7CZDO6J3GXV3](https://stellar.expert/explorer/testnet/contract/CDFAH2DSKYZUD2ZTL7Z3SQEXMV3FAPYV47JUPX67X7YO7CZDO6J3GXV3) |
 
-> **How to deploy the contract** — run inside [GitHub Codespaces](https://github.com/features/codespaces) or [Gitpod](https://gitpod.io) (stellar-cli works on Linux):
-> ```bash
-> stellar contract build
-> stellar contract deploy \
->   --wasm target/wasm32-unknown-unknown/release/payment_tracker.wasm \
->   --network testnet \
->   --source <YOUR_SECRET_KEY>
-> ```
-> Then paste the returned address above and update `CONTRACT_ID` in `src/hooks/usePaymentTracker.js`.
-
 ---
 
 ## 🔁 Contract Call Transaction
